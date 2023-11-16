@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Amazon-project/static/css/main.a995f538.css",
+    "main.js": "/Amazon-project/static/js/main.f873315e.js",
+    "static/media/fa-solid-900.ttf": "/Amazon-project/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Amazon-project/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/bannerImgTwo.jpg": "/Amazon-project/static/media/bannerImgTwo.bc1bdb910ead16c65197.jpg",
+    "static/media/bannerImgFour.jpg": "/Amazon-project/static/media/bannerImgFour.8f7fc6b56e74dba2b6f9.jpg",
+    "static/media/fa-solid-900.woff2": "/Amazon-project/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/bannerImgOne.jpg": "/Amazon-project/static/media/bannerImgOne.efb3d39101f7ef77d616.jpg",
+    "static/media/bannerImgThree.jpg": "/Amazon-project/static/media/bannerImgThree.c80809bb40bee5c34372.jpg",
+    "static/media/bannerImgFive.jpg": "/Amazon-project/static/media/bannerImgFive.aa945e25375bfdee385f.jpg",
+    "static/media/fa-brands-400.woff2": "/Amazon-project/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/DSC_0854 (1).jpg": "/Amazon-project/static/media/DSC_0854 (1).568195e023e0da31366d.jpg",
+    "static/media/fa-regular-400.ttf": "/Amazon-project/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/logo.png": "/Amazon-project/static/media/logo.1c9be0b254d3ff1dc9e9.png",
+    "static/media/fa-regular-400.woff2": "/Amazon-project/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/emptyCart.png": "/Amazon-project/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/fa-v4compatibility.ttf": "/Amazon-project/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Amazon-project/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/bdFlag.webp": "/Amazon-project/static/media/bdFlag.19765596ff60685bb199.webp",
+    "index.html": "/Amazon-project/index.html",
+    "main.a995f538.css.map": "/Amazon-project/static/css/main.a995f538.css.map",
+    "main.f873315e.js.map": "/Amazon-project/static/js/main.f873315e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a995f538.css",
+    "static/js/main.f873315e.js"
+  ]
+}
